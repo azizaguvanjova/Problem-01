@@ -1,6 +1,7 @@
-import Image from 'next/image'
-import Form from './Form'
-import Header from './Header'
+import Header from './Header';
+import Form from './Form';
+
+
 
 // App/Header/Form bileşenlerine ayırın, kendi adlarıyla ayrı dosyalara koyun
 
